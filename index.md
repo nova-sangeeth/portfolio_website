@@ -1,11 +1,9 @@
 <style>
   body {
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%" fill="gray"/><text x="10" y="50" fill="white">Your Background SVG</text></svg>');
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: linear-gradient(135deg, #3498db, #8e44ad); /* Replace with your desired gradient colors */
     font-family: Arial, sans-serif;
     padding: 20px;
-    color: #333;
+    color: #fff; /* Adjust text color for better visibility */
   }
 </style>
 
