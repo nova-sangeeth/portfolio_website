@@ -1,18 +1,21 @@
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
   body {
-    background: linear-gradient(135deg, #3498db, #8e44ad); /* Replace with your desired gradient colors */
-    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #3498db, #8e44ad);
+    font-family: 'Poppins', sans-serif; /* Changing font to Poppins */
     padding: 20px;
-    color: #000000; /* Adjust text color for better visibility */
+    color: #fff;
   }
 </style>
+
 
 # Nova Sangeeth
 
 - **Email:** <novasangeeth@gmail.com>
 - **Website:** [novasangeeth.dev](https://novasangeeth.dev)
-- **Linkedin:** [LinkedIn Profile](https://www.linkedin.com/in/novasangeeth/)
-- **GitHub:** [GitHub Profile](https://github.com/nova-sangeeth)
+- **Linkedin:** [novasangeeth](https://www.linkedin.com/in/novasangeeth/)
+- **GitHub:** [nova-sangeeth](https://github.com/nova-sangeeth)
 
 ---
 
