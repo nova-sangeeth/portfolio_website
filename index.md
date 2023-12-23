@@ -3,7 +3,7 @@
     background: linear-gradient(135deg, #3498db, #8e44ad); /* Replace with your desired gradient colors */
     font-family: Arial, sans-serif;
     padding: 20px;
-    color: #fff; /* Adjust text color for better visibility */
+    color: #000000; /* Adjust text color for better visibility */
   }
 </style>
 
